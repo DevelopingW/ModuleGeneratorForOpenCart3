@@ -4,8 +4,10 @@
   "keywords": ["module", "opencart", "generator"],
   "homepage": "https://w-develop.com/",
   "authors": [
-    "name": "Anton Kalochelitis",
-    "email": "developing.w@gmail.com"
+    {
+      "name": "Anton Kalochelitis",
+      "email": "developing.w@gmail.com"
+    }
   ],
   "type": "project",
   "license": "GNU LESSER GENERAL PUBLIC LICENSE v.3",
