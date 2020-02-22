@@ -8,5 +8,5 @@ namespace DevelopingW\ModuleGeneratorForOpencart3;
  */
 class Generate
 {
-
+    use \DevelopingW\CoreClass\Abstracts\Traits\TraitSetGetForClass;
 }
