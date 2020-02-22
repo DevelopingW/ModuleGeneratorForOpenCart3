@@ -1,0 +1,20 @@
+{
+    "name": "w-develop/advanced",
+    "description": "",
+    "keywords": [""],
+    "homepage": "https://w-develop.com/",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "require": {
+        "php":">=7.3.0",
+        "curl/curl": "^2.0",
+        "twig/twig":">=3.0.3",
+        "phpunit/phpunit": "^8.1"
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
+}
