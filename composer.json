@@ -15,7 +15,7 @@
   "version": "0.0.1",
   "require": {
     "php": ">=7.1.0",
-    "developing-w/core-class": "dev-master"
+    "developing-w/core-class": "^0.0.1"
   },
   "require-dev": {
     "phpunit/phpunit": "^8.1"
